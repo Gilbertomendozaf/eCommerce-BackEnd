@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "title": "Nombre del producto",
+        "description": "Descripción del producto",
+        "code": "Código del producto",
+        "price": 9.99,
+        "status": true,
+        "stock": 10,
+        "category": "Categoría del producto",
+        "thumbnails": [
+          "URL de la imagen 1",
+          "URL de la imagen 2"
+        ]
+      }
+]
